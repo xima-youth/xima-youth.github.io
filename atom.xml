@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.ximayouth.cn/"/>
-  <updated>2020-06-11T13:55:27.994Z</updated>
+  <updated>2020-06-16T11:41:46.619Z</updated>
   <id>https://www.ximayouth.cn/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>database</title>
+    <link href="https://www.ximayouth.cn/2020/06/16/database/"/>
+    <id>https://www.ximayouth.cn/2020/06/16/database/</id>
+    <published>2020-06-16T11:41:27.000Z</published>
+    <updated>2020-06-16T11:41:46.619Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是我们的学生数据库&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Projects</title>
+    <link href="https://www.ximayouth.cn/2020/06/16/projects/"/>
+    <id>https://www.ximayouth.cn/2020/06/16/projects/</id>
+    <published>2020-06-16T11:39:31.000Z</published>
+    <updated>2020-06-16T11:41:03.324Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这里是我们同学的项目的博客，欢迎访问&lt;/p&gt;
+&lt;script
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
